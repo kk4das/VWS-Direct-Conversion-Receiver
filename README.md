@@ -3,7 +3,7 @@ HF Direct Conversion Receiver project from the Vienna Wireless Society Makers
  VWS_Direct_Conversion
    Dean Souleles, KK4DAS, contact kk4das@gmail.com
  
-   This sketch implement s basic Direct Conversion (dual sideband)  radio control panel with the following features:
+   This sketch implements basic Direct Conversion (dual sideband)  radio control panel with the following features:
      
        Dual VFO A/B
        Rotary encoder for tuning, push button to change tuning increment

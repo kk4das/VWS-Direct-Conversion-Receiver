@@ -35,4 +35,12 @@ HF Direct Conversion Receiver project from the Vienna Wireless Society Makers
    configuration every attempt has been made to make it modular in design so that the builder can swap out
    modules at will.  It should be fairly straight forward to adapt to the builder's hardware selection
    of switches, buttons and knobs or even alternate displays.
-
+   
+   REQUIRED LIBRARY
+   LiquuidCystal_I2C - V1.2 - install with the Arduino Library Manager.
+ 
+   BUILD INSTRUCTIONS
+   Create a folder in your Arduino directory called "VWS_Direct_Conversion_1_0".  Copy all of the source files to that folder. 
+   use the Arudino Library manager to download and install the required external library.
+   
+   This has been built and tested on an Arduino Nano and an Arduino Nano Every

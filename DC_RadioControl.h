@@ -2,7 +2,7 @@
 #define DC_RadioControl_h
 
 #define CALLSIGN "KK4DAS"
-#define VERSION "0.1"  // test build
+#define VERSION "1.0"  // Initial build
 #define RIGNAME "VWS DCR"
 
 
